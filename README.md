@@ -7,5 +7,11 @@ Now the motors do not overheat.
 
 This is a complete configuration, it is enough for Klipper to work fully.
 
-There is also a compiled file klipper.bin, but I recommend compiling this file yourself.
+There is also a compiled file klipper.bin  v0.11.0-303, but I recommend compiling this file yourself.
+
+After installation you need to do:
+1. calibrate Z-offset
+2. Bed mesh calibrate
+3. Calibrate bed and extruder PID.
+
 
