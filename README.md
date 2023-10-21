@@ -16,4 +16,4 @@ After installation you need to do:
 
 https://youtu.be/LrBiwabN-Y8
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/LrBiwabN-Y8/0.jpg)](http://www.youtube.com/watch?v=LrBiwabN-Y8 "Video Title")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/LrBiwabN-Y8/0.jpg)](http://www.youtube.com/watch?v=LrBiwabN-Y8 "Creality Ender3 V3 SE Klipper")
