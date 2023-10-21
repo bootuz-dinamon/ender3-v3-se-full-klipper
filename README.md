@@ -15,3 +15,5 @@ After installation you need to do:
 3. Calibrate bed and extruder PID.
 
 https://youtu.be/LrBiwabN-Y8
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/LrBiwabN-Y8/0.jpg)](http://www.youtube.com/watch?v=LrBiwabN-Y8 "Video Title")
