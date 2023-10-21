@@ -14,4 +14,4 @@ After installation you need to do:
 2. Bed mesh calibrate
 3. Calibrate bed and extruder PID.
 
-
+https://youtu.be/LrBiwabN-Y8
