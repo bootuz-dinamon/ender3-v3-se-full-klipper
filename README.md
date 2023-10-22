@@ -1,6 +1,6 @@
 # ender3-v3-se-full-klipper
 
-Configuration files for Klipper for Ender3 V3 SE.
+Configuration files for Klipper for Creality Ender-3 V3 SE.
 
 With current control for stepper motors.
 Now the motors do not overheat.
