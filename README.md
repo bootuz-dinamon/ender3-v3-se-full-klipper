@@ -1,6 +1,7 @@
 # ender3-v3-se-full-klipper
 
 Configuration files for Klipper for Creality Ender-3 V3 SE.
+
 For CR4NS200320C13_32_MS35774_GD303RET6 mainboard (M4 label).
 https://s.click.aliexpress.com/e/_Dmdyedv
 
