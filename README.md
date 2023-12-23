@@ -13,6 +13,10 @@ This is a complete configuration, it is enough for Klipper to work fully.
 
 There is also a compiled file klipper.bin  v0.11.0-303, but I recommend compiling this file yourself.
 
+klipper_type_c.bin   - for connection via type-c connector.
+klipper_usart3_LCD.bin   - for connection via IDC 10 pin LCD connector (not tested yet).
+
+
 After installation you need to do:
 1. calibrate Z-offset
 2. Bed mesh calibrate
