@@ -11,16 +11,16 @@ Now the motors do not overheat.
 
 This is a complete configuration, it is enough for Klipper to work fully.
 
-There is also a compiled file klipper.bin  v0.11.0-303, but I recommend compiling this file yourself.
+There is also a compiled file klipperXX_xxxxxxxxx.bin  v0.12.0-303, but I recommend compiling this file yourself.
 
-klipper_type_c.bin   - for connection via type-c connector.
+klipper12_type_c.bin   - for connection via type-c connector (USART1 PA10/PA9).
 
-klipper_usart3_LCD.bin   - for connection via IDC 10 pin LCD connector (not tested yet).
+klipper12_LCD_connector.bin  - for connection via IDC 10 pin LCD connector (USART3 PB11/PB10).
 
 
 After installation you need to do:
-1. calibrate Z-offset
-2. Bed mesh calibrate
+1. Bed mesh calibrate
+2. Manual calibrate Z-offset
 3. Calibrate bed and extruder PID.
 
 https://youtu.be/LrBiwabN-Y8
