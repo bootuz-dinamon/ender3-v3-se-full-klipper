@@ -1,0 +1,6 @@
+[custom_macro]
+default_bed_temp: 60
+default_extruder_temp: 220
+g28_ext_temp: 140
+temp_diff: 40
+calibration_zoffset_flags:0
